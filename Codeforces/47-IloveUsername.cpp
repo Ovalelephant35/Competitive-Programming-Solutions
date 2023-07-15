@@ -11,8 +11,8 @@ int main() {
         cin >> arr[i];
     }
     
-    int max = arr[0];  // Initialize max with the first element of the array
-    int min = arr[0];  // Initialize min with the first element of the array
+    int max = arr[0];  
+    int min = arr[0];  
     int ans = 0;
     
     for (int i = 1; i < tt; i++) {
