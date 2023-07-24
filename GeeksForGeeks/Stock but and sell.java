@@ -1,4 +1,4 @@
-public class Solution {
+class Solution {
     public static int stockBuyAndSell(int n, int[] prices) {
         int tmp = prices[0];
         int ans = 0;
