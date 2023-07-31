@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 3-Watermelon{
+public class 4A-Watermelon{
  
 public static void main(String[] args){
    Scanner scanner = new Scanner(System.in);
