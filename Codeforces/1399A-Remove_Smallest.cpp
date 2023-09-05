@@ -1,6 +1,5 @@
-
 #include <iostream>
-#include <algorithm> // You need to include the algorithm library for the 'sort' function
+#include <algorithm> 
 using namespace std;
 
 int main() {
