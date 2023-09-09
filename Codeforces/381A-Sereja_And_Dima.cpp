@@ -32,6 +32,6 @@ int main(){
         }
         tmp++;
     }
-    cout<<s<<" "<<d;
+    cout<<s<<" "<<d<<endl;
     return 0;
-}
+    }
