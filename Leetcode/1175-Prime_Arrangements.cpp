@@ -1,3 +1,4 @@
+#include <cmath>
 class Solution {
 public: 
     long long int fact(long long int n) {
