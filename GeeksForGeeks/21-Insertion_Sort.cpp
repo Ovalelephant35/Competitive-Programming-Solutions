@@ -1,8 +1,7 @@
 class Solution
 {
     public:
-    //Function to sort the array using bubble sort algorithm.
-    void bubbleSort(int arr[], int n)
+    void insertionSort(int arr[], int n)
     {
         for(int i=1 ; i< n ; i++){
             int tmp = arr[i];
