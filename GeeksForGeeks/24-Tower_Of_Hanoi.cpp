@@ -1,3 +1,5 @@
+#include <iostream>
+using namespace std;
 class Solution{
     public:
     // You need to complete this function
