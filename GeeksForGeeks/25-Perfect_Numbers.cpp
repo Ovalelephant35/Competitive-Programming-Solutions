@@ -1,3 +1,4 @@
+#include <cmath>
 class Solution {
   public:
     int isPerfectNumber(long long N) {
