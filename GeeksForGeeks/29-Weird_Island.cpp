@@ -1,3 +1,5 @@
+#include <iostream>
+using namespace std;
 class Solution {
   public:
     string solve(int A, int B) {
