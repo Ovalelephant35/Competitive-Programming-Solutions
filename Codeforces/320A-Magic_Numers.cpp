@@ -23,3 +23,4 @@ int main(){
     else cout<<"NO";
     return 0;
 }
+//or and condiitions
