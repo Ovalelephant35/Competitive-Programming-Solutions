@@ -1,6 +1,6 @@
 # Competitive Programming Solutions
 
-This repository contains my solutions to various programming problems from three popular competitive programming platforms: LeetCode, Codeforces, and GeeksforGeeks. The purpose of this repository is to share my solutions and showcase my problem-solving skills in the field of competitive programming.
+This repository contains my solutions to various programming problems from three popular competitive programming platforms: LeetCode(https://leetcode.com/ovalelephant35/), Codeforces, and GeeksforGeeks. The purpose of this repository is to share my solutions and showcase my problem-solving skills in the field of competitive programming.
 
 ## Table of Contents
 
